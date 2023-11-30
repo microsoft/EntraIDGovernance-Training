@@ -3,7 +3,7 @@ Explore a diverse array of scenarios featuring comprehensive documentation, step
 
 ## Scenarios
 
-1. [Employee Lifecycle Automation](https://github.com/jorlopama/EntraIDGovernance-Training/blob/7560955456d495f7944bc490afa20700421795f4/POCBOX/Employee%20Lifecycle%20Automation/EmployeeLifecycle.md) 
-2. [Assign employee access to resources ](https://github.com/jorlopama/EntraIDGovernance-Training/blob/7560955456d495f7944bc490afa20700421795f4/POCBOX/Employee%20Lifecycle%20Automation/EmployeeLifecycle.md) 
-3. [Govern Guest and Partner Access](https://github.com/jorlopama/EntraIDGovernance-Training/blob/7560955456d495f7944bc490afa20700421795f4/POCBOX/Govern%20Guest%20and%20Partner%20Access/GovernGuestsPartnerAccess.md) 
-4. [Govern privileged identities and their access ](https://github.com/jorlopama/EntraIDGovernance-Training/tree/1a51687493c3889aef6cf047f97a965a54b8c538/POCBOX/Employee%20Lifecycle%20Automation) 
+1. [Employee Lifecycle Automation](https://github.com/microsoft/EntraIDGovernance-Training/blob/0df7ca8c6168be316775c107c53567ef2bb73233/POCBOX/Employee%20Lifecycle%20Automation/EmployeeLifecycle.md) 
+2. [Assign employee access to resources ](https://github.com/microsoft/EntraIDGovernance-Training/blob/0df7ca8c6168be316775c107c53567ef2bb73233/POCBOX/Assign%20employee%20access%20to%20resources/AssignEmployeeAccess.md) 
+3. [Govern Guest and Partner Access](https://github.com/microsoft/EntraIDGovernance-Training/blob/0df7ca8c6168be316775c107c53567ef2bb73233/POCBOX/Govern%20Guest%20and%20Partner%20Access/GovernGuestsPartnerAccess.md) 
+4. [Govern privileged identities and their access ](https://github.com/microsoft/EntraIDGovernance-Training/blob/0df7ca8c6168be316775c107c53567ef2bb73233/POCBOX/Govern%20Privileged%20Identities/GovernprivilegedIdentities.md) 
