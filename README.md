@@ -1,30 +1,45 @@
-# Project
+# Welcome to the Microsoft Entra ID Governance training Hub
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+> Empower Your Identity Management Journey with Microsoft Entra ID
 
-As the maintainer of this project, please make a few updates:
+🔐 **Unlock the Power of Identity Governance** 
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+Welcome to our GitHub repository dedicated to Entra Identity Governance – a comprehensive resource hub designed to guide you through the intricacies of managing identities effectively. Whether you're a seasoned professional or just starting, here you'll find the tools, documentation, and training materials to master the art of identity governance.
 
-## Contributing
+## 🚀 Getting Started
 
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
-Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
+ **Explore Documentation**: Dive into our extensive documentation to understand the core concepts and best practices in identity governance.
 
-When you submit a pull request, a CLA bot will automatically determine whether you need to provide
-a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions
-provided by the bot. You will only need to do this once across all repos using our CLA.
+[What is Microsoft Entra ID Governance?](https://learn.microsoft.com/en-us/entra/id-governance/identity-governance-overview)
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
-contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+[Identity lifecycle](https://learn.microsoft.com/en-us/entra/id-governance/identity-governance-overview#identity-lifecycle)
 
-## Trademarks
+[Access Lifecycle](https://learn.microsoft.com/en-us/entra/id-governance/identity-governance-overview#access-lifecycle)
+
+[Privileged Access Lifecycle ](https://learn.microsoft.com/en-us/entra/id-governance/identity-governance-overview#privileged-access-lifecycle)
+
+[Governance Capabilities](https://learn.microsoft.com/en-us/entra/id-governance/identity-governance-overview#governance-capabilities-in-other-microsoft-entra-features) 
+
+## 🪙 Licensing
+
+[Visit the Entra ID Governance Licensing documentation](https://learn.microsoft.com/en-us/entra/id-governance/licensing-fundamentals )
+
+
+
+## POC in a Box  
+
+Explore a diverse array of scenarios featuring comprehensive documentation, step-by-step walkthroughs, and recorded demos that illuminate the intricate lifecycle of identities. Whether you're delving into the basics or seeking advanced insights, our repository is your go-to source for mastering identity governance
+
+### Scenarios 
+
+- Employee Lifecycle Automation
+- Employee Access to resources
+- Governa guest and Partners lifecycle
+- Privileged Identity Management 
+
+
+## 🛠️ Contribute and Collaborate
+This project thrives on collaboration. We welcome your contributions, whether it's code, documentation improvements, or sharing your insights. Check out our Contribution Guidelines to get started.
 
 This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft 
 trademarks or logos is subject to and must follow 
