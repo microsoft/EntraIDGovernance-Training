@@ -28,7 +28,7 @@ Welcome to our GitHub repository dedicated to Entra Identity Governance – a co
 
 ## POC in a Box  
 
-> Access a curated set of tutorials and training modules to create Proof of Concepts around Entra ID governance with recorded Demos and stay ahead in the ever-evolving landscape of identity management
+> Explore a diverse array of scenarios featuring comprehensive documentation, step-by-step walkthroughs, and recorded demos that illuminate the intricate lifecycle of identities. Whether you're delving into the basics or seeking advanced insights, our repository is your go-to source for mastering identity governance
 
 ### Scenarios 
 
