@@ -1,6 +1,8 @@
 # Welcome to the Microsoft Entra ID Governance training Hub
 
-> Empower Your Identity Management Journey with Microsoft Entra ID
+[Microsoft Entra ID Governance Training Hub](https://aka.ms/EntraIDGovernanceTraining) 
+
+> Empower Your Identity Management Journey with Microsoft Entra ID 
 
 🔐 **Unlock the Power of Identity Governance** 
 
