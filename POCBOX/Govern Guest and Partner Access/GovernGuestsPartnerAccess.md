@@ -1,5 +1,5 @@
 ## Govern Guest and Partner Access 
-### Deck: [Govern guest and partner Access to resources](https://github.com/microsoft/EntraIDGovernance-Training/blob/main/POCBOX/Govern%20Guest%20and%20Partner%20Access/IGAPOC%20-%20Govern%20guest%20and%20partner%20access%20to%20resources.pptx)
+### Deck: [Govern guest and partner Access to resources](https://github.com/microsoft/EntraIDGovernance-Training/blob/main/POCBOX/Govern%20Guest%20and%20Partner%20Access/IGAPOC%20-%20Govern%20guest%20and%20partner%20access%20to%20resources.pdf)
 
 -  Intro - Manage Guest lifecycle (slides 14-18)  
 -  Onboarding guests (slide 19-28)
