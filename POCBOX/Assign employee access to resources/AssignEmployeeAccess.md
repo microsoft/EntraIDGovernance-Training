@@ -1,5 +1,5 @@
 ## Assign employee access to resources  
-### Deck: [Assign Employee access to resources](https://github.com/microsoft/EntraIDGovernance-Training/blob/main/POCBOX/Assign%20employee%20access%20to%20resources/IGAPOC%20-%20Assign%20Employee%20access%20to%20resources.pptx) 
+### Deck: [Assign Employee access to resources](https://github.com/microsoft/EntraIDGovernance-Training/blob/main/POCBOX/Assign%20employee%20access%20to%20resources/IGAPOC%20-%20Assign%20Employee%20access%20to%20resources.pdf) 
 
 -  Intro - Benefits of Access requests and highlights (slides 13-17) 
 -  Auto-assignment Access Packages (Birthright assignments) (slides 18-22)

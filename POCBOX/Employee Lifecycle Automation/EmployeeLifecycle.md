@@ -1,5 +1,5 @@
 ## Employee Lifecycle Automation 
-### Deck: [Employee Lifecycle Automation](https://github.com/microsoft/EntraIDGovernance-Training/blob/main/POCBOX/Employee%20Lifecycle%20Automation/IGAPOC%20-%20Employee%20Lifecycle%20Automation.pptx) 
+### Deck: [Employee Lifecycle Automation](https://github.com/microsoft/EntraIDGovernance-Training/blob/main/POCBOX/Employee%20Lifecycle%20Automation/IGAPOC%20-%20Employee%20Lifecycle%20Automation.pdf) 
 
 -  Intro - Key benefits from Entra ID governance ( slides 15, 16 and 17)
 -   HR provisioning (slides 19 - 35)
