@@ -36,7 +36,7 @@ Explore a diverse array of scenarios featuring comprehensive documentation, step
 
 - [Employee Lifecycle Automation](./IGAPOC/Employee%20Lifecycle%20Automation/EmployeeLifecycle.md)
 - [Assign employee access to resources ](./IGAPOC/Assign%20employee%20access%20to%20resources/AssignEmployeeAccess.md)
-- [Govern Guest and Partner Access](./IGAPOG/Govern%20Guest%20and%20Partner%20Access/GovernGuestsPartnerAccess.md) 
+- [Govern Guest and Partner Access](./IGAPOC/Govern%20Guest%20and%20Partner%20Access/GovernGuestsPartnerAccess.md) 
 - [Govern privileged identities and their access ](./IGAPOC/Govern%20Privileged%20Identities/GovernprivilegedIdentities.md) 
 
 
