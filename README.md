@@ -28,16 +28,16 @@ Welcome to our GitHub repository dedicated to Entra Identity Governance – a co
 
 
 
-## 📦 POC in a Box 
+## 📦 Entra ID Governance POC in a Box 
 
 Explore a diverse array of scenarios featuring comprehensive documentation, step-by-step walkthroughs, and recorded demos that illuminate the intricate lifecycle of identities. Whether you're delving into the basics or seeking advanced insights, our repository is your go-to source for mastering identity governance
 
 ### Scenarios 
 
-- [Employee Lifecycle Automation](./POCBOX/Employee%20Lifecycle%20Automation/EmployeeLifecycle.md)
-- [Assign employee access to resources ](./POCBOX/Assign%20employee%20access%20to%20resources/AssignEmployeeAccess.md)
-- [Govern Guest and Partner Access](./POCBOX/Govern%20Guest%20and%20Partner%20Access/GovernGuestsPartnerAccess.md) 
-- [Govern privileged identities and their access ](./POCBOX/Govern%20Privileged%20Identities/GovernprivilegedIdentities.md) 
+- [Employee Lifecycle Automation](./IGAPOC/Employee%20Lifecycle%20Automation/EmployeeLifecycle.md)
+- [Assign employee access to resources ](./IGAPOC/Assign%20employee%20access%20to%20resources/AssignEmployeeAccess.md)
+- [Govern Guest and Partner Access](./IGAPOG/Govern%20Guest%20and%20Partner%20Access/GovernGuestsPartnerAccess.md) 
+- [Govern privileged identities and their access ](./IGAPOC/Govern%20Privileged%20Identities/GovernprivilegedIdentities.md) 
 
 
 ## 🤝 Service Partners training
