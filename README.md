@@ -44,7 +44,7 @@ Explore a diverse array of scenarios featuring comprehensive documentation, step
 
 Explore our recorded training sessions and materials presented by our Microsoft Product group exclusively for our Service Partners.
 
-#### Deck: [Microsoft Entra ID governance Overview](https://github.com/microsoft/EntraIDGovernance-Training/blob/main/POCBOX/Partners/Microsoft%20Entra%20ID%20governance%20Overview.pdf) 
+#### Deck: [Microsoft Entra ID governance Overview](https://github.com/microsoft/EntraIDGovernance-Training/blob/main/Partners/Microsoft%20Entra%20ID%20governance%20Overview.pdf) 
 #### Recording [Recording: Microsoft Entra ID Governance technical training for services partners](https://www.youtube.com/watch?v=QCpmBknNkbI)
 
 
