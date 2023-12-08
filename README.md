@@ -40,6 +40,14 @@ Explore a diverse array of scenarios featuring comprehensive documentation, step
 - [Govern privileged identities and their access ](./POCBOX/Govern%20Privileged%20Identities/GovernprivilegedIdentities.md) 
 
 
+## 🤝 Service Partners training
+
+Explore our recorded training sessions and materials presented by our Microsoft Product group exclusively for our Service Partners.
+
+#### Deck: [Microsoft Entra ID governance Overview](https://github.com/microsoft/EntraIDGovernance-Training/blob/main/POCBOX/Partners/Microsoft%20Entra%20ID%20governance%20Overview.pdf) 
+#### Recording [Recording: Microsoft Entra ID Governance technical training for services partners](https://www.youtube.com/watch?v=QCpmBknNkbI)
+
+
 ## 🛠️ Contribute and Collaborate
 This project thrives on collaboration. We welcome your contributions, whether it's code, documentation improvements, or sharing your insights. Check out our Contribution Guidelines to get started.
 
