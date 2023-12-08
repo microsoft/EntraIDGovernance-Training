@@ -44,9 +44,8 @@ Explore a diverse array of scenarios featuring comprehensive documentation, step
 
 Explore our recorded training sessions and materials presented by our Microsoft Product group exclusively for our Service Partners.
 
-### Deck: [Employee Lifecycle Automation](https://github.com/microsoft/EntraIDGovernance-Training/blob/main/POCBOX/Employee%20Lifecycle%20Automation/IGAPOC%20-%20Employee%20Lifecycle%20Automation.pdf) 
-### Recording [Recording: Microsoft Entra ID Governance technical training for services partners](https://www.youtube.com/watch?v=QCpmBknNkbI)
-- 
+#### Deck: [Microsoft Entra ID governance Overview](https://github.com/microsoft/EntraIDGovernance-Training/blob/main/POCBOX/Partners/Microsoft%20Entra%20ID%20governance%20Overview.pdf) 
+#### Recording [Recording: Microsoft Entra ID Governance technical training for services partners](https://www.youtube.com/watch?v=QCpmBknNkbI)
 
 
 ## 🛠️ Contribute and Collaborate
