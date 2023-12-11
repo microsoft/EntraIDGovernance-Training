@@ -1,8 +1,8 @@
 # Welcome to the Microsoft Entra ID Governance training Hub
 
-[Microsoft Entra ID Governance Training Hub](https://aka.ms/EntraIDGovernanceTraining) 
+[Microsoft Entra ID Governance Training Hub](https://aka.ms/EntraIDGovernanceTraining)
 
-> Empower Your Identity Management Journey with Microsoft Entra ID 
+> Empower Your Identity Management Journey with Microsoft Entra ID
 
 ## 🔐 Unlock the Power of Identity Governance
 
@@ -12,47 +12,58 @@ Welcome to our GitHub repository dedicated to Entra Identity Governance – a co
 
  **Explore Documentation**: Dive into our extensive documentation to understand the core concepts and best practices in identity governance.
 
+### Microsoft Entra ID Governance
+
 [What is Microsoft Entra ID Governance?](https://learn.microsoft.com/en-us/entra/id-governance/identity-governance-overview)
 
 [Identity lifecycle](https://learn.microsoft.com/en-us/entra/id-governance/identity-governance-overview#identity-lifecycle)
 
 [Access Lifecycle](https://learn.microsoft.com/en-us/entra/id-governance/identity-governance-overview#access-lifecycle)
 
-[Privileged Access Lifecycle ](https://learn.microsoft.com/en-us/entra/id-governance/identity-governance-overview#privileged-access-lifecycle)
+[Privileged Access Lifecycle](https://learn.microsoft.com/en-us/entra/id-governance/identity-governance-overview#privileged-access-lifecycle)
 
-[Governance Capabilities](https://learn.microsoft.com/en-us/entra/id-governance/identity-governance-overview#governance-capabilities-in-other-microsoft-entra-features) 
+[Governance Capabilities](https://learn.microsoft.com/en-us/entra/id-governance/identity-governance-overview#governance-capabilities-in-other-microsoft-entra-features)
+
+### Microsoft Entra Permissions Management
 
 ## 🪙 Licensing
 
+### Microsoft Entra ID Governance
+
 [Visit the Entra ID Governance Licensing documentation](https://learn.microsoft.com/en-us/entra/id-governance/licensing-fundamentals )
 
+### Microsoft Entra Permissions Management
 
-
-## 📦 Entra ID Governance POC in a Box 
+## 📦 POC in a Box
 
 Explore a diverse array of scenarios featuring comprehensive documentation, step-by-step walkthroughs, and recorded demos that illuminate the intricate lifecycle of identities. Whether you're delving into the basics or seeking advanced insights, our repository is your go-to source for mastering identity governance
 
-### Scenarios 
+### Microsoft Entra ID Governance Scenarios
 
 - [Employee Lifecycle Automation](./IGAPOC/Employee%20Lifecycle%20Automation/EmployeeLifecycle.md)
-- [Assign employee access to resources ](./IGAPOC/Assign%20employee%20access%20to%20resources/AssignEmployeeAccess.md)
-- [Govern Guest and Partner Access](./IGAPOC/Govern%20Guest%20and%20Partner%20Access/GovernGuestsPartnerAccess.md) 
-- [Govern privileged identities and their access ](./IGAPOC/Govern%20Privileged%20Identities/GovernprivilegedIdentities.md) 
+- [Assign employee access to resources](./IGAPOC/Assign%20employee%20access%20to%20resources/AssignEmployeeAccess.md)
+- [Govern Guest and Partner Access](./IGAPOC/Govern%20Guest%20and%20Partner%20Access/GovernGuestsPartnerAccess.md)
+- [Govern privileged identities and their access](./IGAPOC/Govern%20Privileged%20Identities/GovernprivilegedIdentities.md)
 
+### Microsoft Entra Permissions Management
 
 ## 🤝 Service Partners training
 
 Explore our recorded training sessions and materials presented by our Microsoft Product group exclusively for our Service Partners.
 
-#### Deck: [Microsoft Entra ID governance Overview](https://github.com/microsoft/EntraIDGovernance-Training/blob/main/Partners/Microsoft%20Entra%20ID%20governance%20Overview.pdf) 
-#### Recording [Recording: Microsoft Entra ID Governance technical training for services partners](https://www.youtube.com/watch?v=QCpmBknNkbI)
+### Microsoft Entra ID Governance
 
+- Deck [Microsoft Entra ID governance Overview](https://github.com/microsoft/EntraIDGovernance-Training/blob/main/Partners/Microsoft%20Entra%20ID%20governance%20Overview.pdf)
+- Recording [Recording: Microsoft Entra ID Governance technical training for services partners](https://www.youtube.com/watch?v=QCpmBknNkbI)
+
+### Microsoft Entra Permissions Management
 
 ## 🛠️ Contribute and Collaborate
+
 This project thrives on collaboration. We welcome your contributions, whether it's code, documentation improvements, or sharing your insights. Check out our Contribution Guidelines to get started.
 
-This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft 
-trademarks or logos is subject to and must follow 
+This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft
+trademarks or logos is subject to and must follow
 [Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general).
 Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship.
 Any use of third-party trademarks or logos are subject to those third-party's policies.
