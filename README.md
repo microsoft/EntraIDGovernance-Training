@@ -26,6 +26,16 @@ Welcome to our GitHub repository dedicated to Entra Identity Governance – a co
 
 ### Microsoft Entra Permissions Management
 
+[What is Microsoft Entra Permissions Management?](https://learn.microsoft.com/en-us/entra/permissions-management/overview)
+
+[How to enable Microsoft Entra Permissions Management](https://learn.microsoft.com/en-us/entra/permissions-management/onboard-enable-tenant)
+
+[Microsoft Entra Permissions Management Quickstart Guide](https://learn.microsoft.com/en-us/entra/permissions-management/permissions-management-quickstart-guide)
+
+[Microsoft Entra Permissions Management Operations Guide](https://learn.microsoft.com/en-us/entra/architecture/permissions-manage-ops-guide-intro)
+
+[2003 State of Cloud Permissions Risks Report](https://go.microsoft.com/fwlink/?linkid=2228627&clcid=0x409&culture=en-us&country=us)
+
 ## 🪙 Licensing
 
 ### Microsoft Entra ID Governance
@@ -33,6 +43,8 @@ Welcome to our GitHub repository dedicated to Entra Identity Governance – a co
 [Visit the Entra ID Governance Licensing documentation](https://learn.microsoft.com/en-us/entra/id-governance/licensing-fundamentals )
 
 ### Microsoft Entra Permissions Management
+
+[Visit the Entra Permissions Management Licensing documentation](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-permissions-management#pricing)
 
 ## 📦 POC in a Box
 
@@ -47,6 +59,13 @@ Explore a diverse array of scenarios featuring comprehensive documentation, step
 
 ### Microsoft Entra Permissions Management
 
+- [Overview of Microsoft Entra Permisions Management](./00-MEPM_PoC_Overview/Overview.md)
+- [Getting Started](./01-MEPM_PoC_Getting_Started/Getting_Started.md)
+- [Onboarding Clouds](./02-MEPM_PoC_Onboarding_Clouds/Onboarding_Clouds.md)
+- [Brilliant at the Basics](./03-MEPM_PoC_Brilliant_at_the_Basics/Brilliant_at_the_Basics.md)
+- [Permissions Creep Index (PCI) and Remediation](./04-MEPM_PCI_and_Remediation/PCI_and_Remediation.md)
+- [Automation and Alerts](./05-MEPM_Automation_and_Alerts/Automation_and_Alerts.md)
+
 ## 🤝 Service Partners training
 
 Explore our recorded training sessions and materials presented by our Microsoft Product group exclusively for our Service Partners.
@@ -57,6 +76,8 @@ Explore our recorded training sessions and materials presented by our Microsoft 
 - Recording [Recording: Microsoft Entra ID Governance technical training for services partners](https://www.youtube.com/watch?v=QCpmBknNkbI)
 
 ### Microsoft Entra Permissions Management
+
+- Deck [Microsoft Entra Permissions Mangement Overview](https://github.com/microsoft/EntraIDGovernance-Training/blob/main/EPMPOC/01-MEPM_PoC_Getting_Started/01-MEPM_PoC_Getting_Started.pdf)
 
 ## 🛠️ Contribute and Collaborate
 
