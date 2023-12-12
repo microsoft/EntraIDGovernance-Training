@@ -2,9 +2,8 @@
 
 ## Deck: [Automation and Alerts](https://github.com/microsoft/EntraIDGovernance-Training/blob/main/EPMPOC/05-MEPM_Automation_and_Alerts/05-MEPM_Automation_and_Alerts.pdf)
 
-- Remediation Phase
-    - Day 60
-        - Alerting
-    - Day 90
-        - Automation
-- Next Steps
+- Remediation Phase - Continue from the pervious slide deck
+- Day 60
+  - Alerting (Slides 3-15)
+- Day 90
+  - Automation (Slides 16-25)
