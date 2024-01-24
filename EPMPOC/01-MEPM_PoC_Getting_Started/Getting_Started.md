@@ -1,1 +1,8 @@
+# Getting Started Wwith Microsoft Entra Permissions Management PoC
 
+## Deck: [Getting Started](https://github.com/microsoft/EntraIDGovernance-Training/blob/main/EPMPOC/01-MEPM_PoC_Getting_Started/01-MEPM_PoC_Getting_Started.pdf)
+
+- What is CIEM - Describing CIEM and where it fits in existing environment (slides 4-14)
+- What challenges can you overcome? - How Microsoft Entra Permisisons Management cand help you overcome permisisons challenges (slide 15-19)
+- Different Team Use Cases - The different teams can leverage MEPM (slides 20-24)
+- Business Benefits and ROI - How MEPM is aligned to business goals and measuring ROI (slides 25-34)
