@@ -1,6 +1,6 @@
 # Govern privileged identities and their access  
 
-## Deck: [Govern privileged Identities and their access](https://github.com/microsoft/EntraIDGovernance-Training/blob/main/IGAPOC/Govern%20Privileged%20Identities/IGAPOC%20-%20Govern%20privileged%20Identities%20and%20their%20access.pdf)
+## Deck: [Govern privileged Identities and their access](https://github.com/microsoft/EntraIDGovernance-Training/blob/main/IGAPOC/Govern%20Privileged%20Identities/EIGA%20POC%20-%20Scenario%204%20-%20Govern%20privileged%20identities%20and%20their%20access.pptx)
 
 - Intro - What is Privilege Identity Management? (slides 17-25)  
 - Discovery and Insights (slides 26-28)
