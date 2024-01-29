@@ -59,12 +59,12 @@ Explore a diverse array of scenarios featuring comprehensive documentation, step
 
 ### Microsoft Entra Permissions Management
 
-- [Overview of Microsoft Entra Permisions Management](./00-MEPM_PoC_Overview/Overview.md)
-- [Getting Started](./01-MEPM_PoC_Getting_Started/Getting_Started.md)
-- [Onboarding Clouds](./02-MEPM_PoC_Onboarding_Clouds/Onboarding_Clouds.md)
-- [Brilliant at the Basics](./03-MEPM_PoC_Brilliant_at_the_Basics/Brilliant_at_the_Basics.md)
-- [Permissions Creep Index (PCI) and Remediation](./04-MEPM_PCI_and_Remediation/PCI_and_Remediation.md)
-- [Automation and Alerts](./05-MEPM_Automation_and_Alerts/Automation_and_Alerts.md)
+- [Overview of Microsoft Entra Permisions Management](./EPMPOC/00-MEPM_PoC_Overview/Overview.md)
+- [Getting Started](./EPMPOC/01-MEPM_PoC_Getting_Started/Getting_Started.md)
+- [Onboarding Clouds](./EPMPOC/02-MEPM_PoC_Onboarding_Clouds/Onboarding_Clouds.md)
+- [Brilliant at the Basics](./EPMPOC/03-MEPM_PoC_Brilliant_at_the_Basics/Brilliant_at_the_Basics.md)
+- [Permissions Creep Index (PCI) and Remediation](./EPMPOC/04-MEPM_PCI_and_Remediation/PCI_and_Remediation.md)
+- [Automation and Alerts](./EPMPOC/05-MEPM_Automation_and_Alerts/Automation_and_Alerts.md)
 
 ## 🤝 Service Partners training
 
