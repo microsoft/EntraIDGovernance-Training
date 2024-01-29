@@ -1,6 +1,6 @@
 # Overview of Microsoft Entra Permissions Management PoC
 
-## Deck: [PoC Kick Off](https://github.com/microsoft/EntraIDGovernance-Training/blob/main/EPMPOC/00-MEPM_PoC_Overview/00-MEPM_PoC_Overview.pdf)
+## Deck: [PoC Kick Off](https://github.com/microsoft/EntraIDGovernance-Training/blob/main/EPMPOC/00-MEPM_PoC_Overview/00-MEPM_PoC_Overview.pptx)
 
 - Stakeholders - Recommend role particpation (slide 2)
 - Goals - Outcomes to achieve from the PoC (slide 3)
