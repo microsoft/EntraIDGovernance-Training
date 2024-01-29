@@ -1,6 +1,6 @@
 # Onboarding Clouds For Microsoft Entra Permissions Management PoC
 
-## Deck: [Onboarding Clouds](https://github.com/microsoft/EntraIDGovernance-Training/blob/main/EPMPOC/02-MEPM_PoC_Onboarding_Clouds/02-MEPM_PoC_Onboarding_Clouds.pdf)
+## Deck: [Onboarding Clouds](./02-MEPM_PoC_Onboarding_Clouds.pptx)
 
 - MEPM Roles- Setting up the correct roles for managing MEPM (slides 4)
 - Azure - Onboarding Azure subscriptions (slide 6-10)

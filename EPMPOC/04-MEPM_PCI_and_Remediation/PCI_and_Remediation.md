@@ -1,6 +1,6 @@
 # Permissions Creep Index and Remediation For Microsoft Entra Permissions Management PoC
 
-## Deck: [PCI and Remediation](https://github.com/microsoft/EntraIDGovernance-Training/blob/main/EPMPOC/04-MEPM_PCI_and_Remediation/04-MEPM_PCI_and_Remediation.pdf)
+## Deck: [PCI and Remediation](./04-MEPM_PCI_and_Remediation.pptx)
 
 - Planning phase - High level plan (Slides 4-5)
 - Remediation phase - Stey by step (Slides 6-40)
