@@ -72,7 +72,7 @@ Explore our recorded training sessions and materials presented by our Microsoft 
 
 ### Microsoft Entra ID Governance
 
-- Deck [Microsoft Entra ID governance Overview](https://github.com/microsoft/EntraIDGovernance-Training/blob/main/Partners/Microsoft%20Entra%20ID%20governance%20Overview.pdf)
+- Deck [Microsoft Entra ID governance Overview](https://github.com/microsoft/EntraIDGovernance-Training/blob/main/Partners/Microsoft%20Entra%20ID%20governance%20Overview.pptx)
 - Recording [Recording: Microsoft Entra ID Governance technical training for services partners](https://www.youtube.com/watch?v=QCpmBknNkbI)
 
 ### Microsoft Entra Permissions Management
