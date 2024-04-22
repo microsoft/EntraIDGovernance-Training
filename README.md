@@ -68,12 +68,27 @@ Explore a diverse array of scenarios featuring comprehensive documentation, step
 
 ## 🤝 Service Partners training
 
-Explore our recorded training sessions and materials presented by our Microsoft Product group exclusively for our Service Partners.
+Explore our recorded training sessions and materials presented by our Microsoft Product group exclusively for our Service Partners. To consume some of this materials document, you must have a Microsoft Partner One ID and Microsoft Partner Network (MPN) access
 
-### Microsoft Entra ID Governance
-
+### Microsoft Entra ID Governance 
+- PoC Feedback form [POC Feedback Link](https://aka.ms/IGAPOCSurvey)
 - Deck [Microsoft Entra ID governance Overview](https://github.com/microsoft/EntraIDGovernance-Training/blob/main/Partners/Microsoft%20Entra%20ID%20governance%20Overview.pptx)
-- Recording [Recording: Microsoft Entra ID Governance technical training for services partners](https://www.youtube.com/watch?v=QCpmBknNkbI)
+- Partner training recording [Recording: Microsoft Entra ID Governance technical training for services partners](https://www.youtube.com/watch?v=QCpmBknNkbI)
+- Partner Lab setup (TBD)
+- Customer Flyer [Microsoft Entra ID governance customer flyer](https://github.com/microsoft/EntraIDGovernance-Training/blob/main/Partners/00-MEIG_Customer%20Email%20template%20_Flyer.pptx)
+- Infographic (Requires MPN Access) [Microsoft Entra ID Governance Infographic](https://microsoft.seismic.com/Link/Content/DCRMc68PfX4MdGfGgF8m8qFJd7pj)
+- Pre-Engagement Deck [Microsoft Entra ID Governance - Pre-engagement Deck](https://github.com/microsoft/EntraIDGovernance-Training/blob/main/Partners/EIGA%20-%20POC%20Pre-engagement.pptx)
+- Lifecycle Workflows (Requires MPN Access) [Microsoft Entra ID Governance - Lifecycle Workflows](https://microsoft.seismic.com/Link/Content/DCDJ9qhjHRBJj8mFbFbV77qC4WT3)
+- L100 Deck (Requires MPN Access) [Microsoft Entra ID Governance - L100 Deck](https://microsoft.seismic.com/Link/Content/DChcDCTCVb9hHGQCPcqT8XHGfQDB)
+- L200 Deck (Requires MPN Access) [Microsoft Entra ID Governance - L200 Deck](https://microsoft.seismic.com/Link/Content/DCfV7RDJDgbWG8hQPqqcCD9DqFMd)
+
+
+### Scenarios
+- [Employee Lifecycle Automation](./IGAPOC/Employee%20Lifecycle%20Automation/EmployeeLifecycle.md)
+- [Assign employee access to resources](./IGAPOC/Assign%20employee%20access%20to%20resources/AssignEmployeeAccess.md)
+- [Govern Guest and Partner Access](./IGAPOC/Govern%20Guest%20and%20Partner%20Access/GovernGuestsPartnerAccess.md)
+- [Govern privileged identities and their access](./IGAPOC/Govern%20Privileged%20Identities/GovernprivilegedIdentities.md)
+
 
 ### Microsoft Entra Permissions Management
 
