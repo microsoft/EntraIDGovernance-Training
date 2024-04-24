@@ -68,7 +68,7 @@ Explore a diverse array of scenarios featuring comprehensive documentation, step
 
 ## 🤝 Service Partners training
 
-Explore our recorded training sessions and materials presented by our Microsoft Product group exclusively for our Service Partners. To consume some of this materials document, you must have a Microsoft Partner One ID and Microsoft Partner Network (MPN) access
+Explore our recorded training sessions and materials presented by our Microsoft Product group exclusively for our Service Partners. To consume some of this materials, you must have a Microsoft Partner One ID and Microsoft Partner Network (MPN) access
 
 ### Microsoft Entra ID Governance 
 - PoC Feedback form [POC Feedback Link](https://aka.ms/IGAPOCSurvey)
