@@ -66,6 +66,12 @@ Explore a diverse array of scenarios featuring comprehensive documentation, step
 - [Permissions Creep Index (PCI) and Remediation](./EPMPOC/04-MEPM_PCI_and_Remediation/PCI_and_Remediation.md)
 - [Automation and Alerts](./EPMPOC/05-MEPM_Automation_and_Alerts/Automation_and_Alerts.md)
 
+## ⏩ Useful Microsoft Quickstart Guides
+
+Check out these valuable links from Microsoft for step-by-step instructions on setting up Microsoft Entra ID Governance
+
+- [Quickstart links](./Quickstart/Readme.md)
+
 ## 🤝 Service Partners training
 
 Explore our recorded training sessions and materials presented by our Microsoft Product group exclusively for our Service Partners. To consume some of this materials, you must have a Microsoft Partner One ID and Microsoft Partner Network (MPN) access
