@@ -78,8 +78,8 @@ Explore our recorded training sessions and materials presented by our Microsoft 
 
 ### Microsoft Entra ID Governance 
 - PoC Feedback form [POC Feedback Link](https://aka.ms/IGAPOCSurvey)
-- Deck [Microsoft Entra ID governance Overview](https://github.com/microsoft/EntraIDGovernance-Training/blob/main/Partners/Microsoft%20Entra%20ID%20governance%20Overview.pptx)
-- Partner training recording [Recording: Microsoft Entra ID Governance technical training for services partners](https://www.youtube.com/watch?v=QCpmBknNkbI)
+- Deck (PDF Format)  [Microsoft Entra ID governance Partner technical Training](https://github.com/microsoft/EntraIDGovernance-Training/blob/main/Partners/MEIG%20Technical%20Training%20for%20Partners%20Deck%20-%20June%202024.pdf)
+- Partner training recording [Recording: Microsoft Entra ID Governance technical training for services partners](https://youtu.be/Oab6Bcl7hKo?si=mnDBgVLCPblnoHTo)
 - Partner Lab setup (TBD)
 - Customer Flyer [Microsoft Entra ID governance customer flyer](https://github.com/microsoft/EntraIDGovernance-Training/blob/main/Partners/00-MEIG_Customer%20Email%20template%20_Flyer.pptx)
 - Infographic (Requires MPN Access) [Microsoft Entra ID Governance Infographic](https://microsoft.seismic.com/Link/Content/DCRMc68PfX4MdGfGgF8m8qFJd7pj)
