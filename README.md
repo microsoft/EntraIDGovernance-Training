@@ -57,6 +57,8 @@ Explore a diverse array of scenarios featuring comprehensive documentation, step
 - [Govern Guest and Partner Access](./IGAPOC/Govern%20Guest%20and%20Partner%20Access/GovernGuestsPartnerAccess.md)
 - [Govern privileged identities and their access](./IGAPOC/Govern%20Privileged%20Identities/GovernprivilegedIdentities.md)
 
+### 🤖 Coming Soon! Custom Extension Samples (Logic Apps)
+
 ### Microsoft Entra Permissions Management
 
 - [Overview of Microsoft Entra Permisions Management](./EPMPOC/00-MEPM_PoC_Overview/Overview.md)
@@ -72,11 +74,14 @@ Check out these valuable links from Microsoft for step-by-step instructions on s
 
 - [Quickstart links](./Quickstart/Readme.md)
 
+
+
 ## 🤝 Service Partners training
 
 Explore our recorded training sessions and materials presented by our Microsoft Product group exclusively for our Service Partners. To consume some of this materials, you must have a Microsoft Partner One ID and Microsoft Partner Network (MPN) access
 
 ### Microsoft Entra ID Governance 
+
 - PoC Feedback form [POC Feedback Link](https://aka.ms/IGAPOCSurvey)
 - Deck (PDF Format)  [Microsoft Entra ID governance Partner technical Training](https://github.com/microsoft/EntraIDGovernance-Training/blob/main/Partners/MEIG%20Technical%20Training%20for%20Partners%20Deck%20-%20June%202024.pdf)
 - Partner training recording [Recording: Microsoft Entra ID Governance technical training for services partners](https://youtu.be/Oab6Bcl7hKo?si=mnDBgVLCPblnoHTo)
