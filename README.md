@@ -57,7 +57,7 @@ Explore a diverse array of scenarios featuring comprehensive documentation, step
 - [Govern Guest and Partner Access](./IGAPOC/Govern%20Guest%20and%20Partner%20Access/GovernGuestsPartnerAccess.md)
 - [Govern privileged identities and their access](./IGAPOC/Govern%20Privileged%20Identities/GovernprivilegedIdentities.md)
 
-### 🤖 Coming Soon! Custom Extension Samples (Logic Apps)
+
 
 ### Microsoft Entra Permissions Management
 
@@ -68,13 +68,14 @@ Explore a diverse array of scenarios featuring comprehensive documentation, step
 - [Permissions Creep Index (PCI) and Remediation](./EPMPOC/04-MEPM_PCI_and_Remediation/PCI_and_Remediation.md)
 - [Automation and Alerts](./EPMPOC/05-MEPM_Automation_and_Alerts/Automation_and_Alerts.md)
 
+## 🤖 Custom Extension Samples (Logic Apps)
+Coming Soon!
+
 ## ⏩ Useful Microsoft Quickstart Guides
 
 Check out these valuable links from Microsoft for step-by-step instructions on setting up Microsoft Entra ID Governance
 
 - [Quickstart links](./Quickstart/Readme.md)
-
-
 
 ## 🤝 Service Partners training
 
