@@ -4,7 +4,7 @@
 
 > Empower Your Identity Management Journey with Microsoft Entra ID
 
-## 🔐 Unlock the Power of Identity Governance
+## 🔐 Unlock the Power of Identity Governance with SAP Applications
 
 Welcome to our GitHub repository dedicated to SAP Integration scenarios with Microsoft Entra Identity Governance – a comprehensive resource hub designed to guide you through the intricacies of managing identities and access to SAP Applications effectively. In this hub we describe key SAP Integration scenarios:
 
