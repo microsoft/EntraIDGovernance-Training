@@ -44,7 +44,7 @@ Demo Video: TBC
 
 [Tutorial: Microsoft Entra single sign-on (SSO) integration with SAP Cloud Identity Services](https://learn.microsoft.com/en-us/entra/identity/saas-apps/sap-hana-cloud-platform-identity-authentication-tutorial)
 
-Demo Video:
+Demo Video: [Configuring Single sign-on (SSO) for SAP Cloud Identity Services and SAP BTP Apps](https://youtu.be/W5PmklRsp4E?si=NB3LSQXRkZ07Z4Bv)
 
 [Tutorial: Microsoft Entra single sign-on (SSO) integration with SAP NetWeaver](https://learn.microsoft.com/en-us/entra/identity/saas-apps/sap-netweaver-tutorial)
 
@@ -56,17 +56,17 @@ OBS: More SAP SSO scenarios and other SaaS applications are available [here](htt
 
 [Tutorial: Configure SAP Cloud Identity Services for automatic user provisioning](https://learn.microsoft.com/en-us/entra/identity/saas-apps/sap-cloud-platform-identity-authentication-provisioning-tutorial)
 
-Demo Video:
+Demo Video: [Configuring User Provisioning for SAP Cloud Identity Service](https://youtu.be/Ta7KkMxbEIc?si=kiX6Ft45ZXbvNLkF)
 
-[Configuring Microsoft Entra ID to provision users into SAP ECC with NetWeaver AS ABAP 7.0 or later](https://learn.microsoft.com/en-us/entra/identity/app-provisioning/on-premises-sap-connector-configure?toc=%2Fentra%2Fidentity%2Fsaas-apps%2Ftoc.json%3Fbc%3D%2Fentra%2Fidentity%2Fsaas-apps%2Fbreadcrumb%2Ftoc.json)
+[Tutorial: Configuring Microsoft Entra ID to provision users into SAP ECC with NetWeaver AS ABAP 7.0 or later](https://learn.microsoft.com/en-us/entra/identity/app-provisioning/on-premises-sap-connector-configure?toc=%2Fentra%2Fidentity%2Fsaas-apps%2Ftoc.json%3Fbc%3D%2Fentra%2Fidentity%2Fsaas-apps%2Fbreadcrumb%2Ftoc.json)
 
 Demo Video: TBC
 
 ### Manage Access to SAP Applications
 
-[Use Microsoft Entra groups for Authorization through Role Collections in IAS/BTP](https://learn.microsoft.com/en-us/entra/fundamentals/scenario-azure-first-sap-identity-integration#3---use-microsoft-entra-groups-for-authorization-through-role-collections-in-iasbtp)
+[Tutorial: Use Microsoft Entra groups for Authorization through Role Collections in IAS/BTP](https://learn.microsoft.com/en-us/entra/fundamentals/scenario-azure-first-sap-identity-integration#3---use-microsoft-entra-groups-for-authorization-through-role-collections-in-iasbtp)
 
-Demo Video:
+Demo Video: [Use Microsoft Entra Group and Access Packages to manage SAP Roles and application access](https://youtu.be/3KWkuGslYOU?si=DFVIUHUZMBX05QD-)
 
 ## 🪙 Licensing
 
@@ -80,5 +80,4 @@ Demo Video:
 ## 📦 POC in a Box
 
 To be Defined...
-
 
