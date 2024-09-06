@@ -84,12 +84,12 @@ Explore our recorded training sessions and materials presented by our Microsoft 
 ### Microsoft Entra ID Governance 
 
 - PoC Feedback form [POC Feedback Link](https://aka.ms/IGAPOCSurvey)
-- Deck (PDF Format)  [Microsoft Entra ID governance Partner technical Training](https://github.com/microsoft/EntraIDGovernance-Training/blob/main/Partners/MEIG%20Technical%20Training%20for%20Partners%20Deck%20-%20June%202024.pdf)
+- Deck (PDF Format)  [Microsoft Entra ID governance Partner technical Training](./Partners/MEIG%20Technical%20Training%20for%20Partners%20Deck%20-%20June%202024.pdf)
 - Partner training recording [Recording: Microsoft Entra ID Governance technical training for services partners](https://youtu.be/Oab6Bcl7hKo?si=mnDBgVLCPblnoHTo)
 - Partner Lab setup (TBD)
-- Customer Flyer [Microsoft Entra ID governance customer flyer](https://github.com/microsoft/EntraIDGovernance-Training/blob/main/Partners/00-MEIG_Customer%20Email%20template%20_Flyer.pptx)
+- Customer Flyer [Microsoft Entra ID governance customer flyer](./Partners/00-MEIG_Customer%20Email%20template%20_Flyer.pptx)
 - Infographic (Requires MPN Access) [Microsoft Entra ID Governance Infographic](https://microsoft.seismic.com/Link/Content/DCRMc68PfX4MdGfGgF8m8qFJd7pj)
-- Pre-Engagement Deck [Microsoft Entra ID Governance - Pre-engagement Deck](https://github.com/microsoft/EntraIDGovernance-Training/blob/main/Partners/EIGA%20-%20POC%20Pre-engagement.pptx)
+- Pre-Engagement Deck [Microsoft Entra ID Governance - Pre-engagement Deck](./Partners/EIGA%20-%20POC%20Pre-engagement.pptx)
 - Lifecycle Workflows (Requires MPN Access) [Microsoft Entra ID Governance - Lifecycle Workflows](https://microsoft.seismic.com/Link/Content/DCDJ9qhjHRBJj8mFbFbV77qC4WT3)
 - L100 Deck (Requires MPN Access) [Microsoft Entra ID Governance - L100 Deck](https://microsoft.seismic.com/Link/Content/DChcDCTCVb9hHGQCPcqT8XHGfQDB)
 - L200 Deck (Requires MPN Access) [Microsoft Entra ID Governance - L200 Deck](https://microsoft.seismic.com/Link/Content/DCfV7RDJDgbWG8hQPqqcCD9DqFMd)
@@ -104,7 +104,7 @@ Explore our recorded training sessions and materials presented by our Microsoft 
 
 ### Microsoft Entra Permissions Management
 
-- Deck [Microsoft Entra Permissions Mangement Overview](https://github.com/microsoft/EntraIDGovernance-Training/blob/main/EPMPOC/01-MEPM_PoC_Getting_Started/01-MEPM_PoC_Getting_Started.pdf)
+- Deck [Microsoft Entra Permissions Mangement Overview](./EPMPOC/01-MEPM_PoC_Getting_Started/01-MEPM_PoC_Getting_Started.pdf)
 
 ## 🛠️ Contribute and Collaborate
 
