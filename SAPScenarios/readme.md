@@ -26,9 +26,9 @@ Public Doc: [Scenario - Using Microsoft Entra ID to secure access to SAP platfor
 
 Public Doc: [Manage Access to your SAP Application](https://learn.microsoft.com/en-us/entra/id-governance/sap)
 
-PPT Deck: [Migrate from SAP IDM to Microsoft Entra](https://learn.microsoft.com/en-us/entra/id-governance/sap)
+PPT Deck: [Migrate from SAP IDM to Microsoft Entra](SAPScenarios/MicrosoftEntra_SAP_ScenariosL300.pptx)
 
-PPT Deck: [Microsoft Entra - SAP Scenarios L300 Training](https://learn.microsoft.com/en-us/entra/id-governance/sap)
+PPT Deck: [Microsoft Entra - SAP Scenarios L300 Training](SAPScenarios/Migrate SAP IDM to Microsoft Entra.PPTX)
 
 ### Connect to SAP HR Source
 
