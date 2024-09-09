@@ -28,7 +28,7 @@ Public Doc: [Manage Access to your SAP Application](https://learn.microsoft.com/
 
 PPT Deck: [Migrate from SAP IDM to Microsoft Entra](SAPScenarios/MicrosoftEntra_SAP_ScenariosL300.pptx)
 
-PPT Deck: [Microsoft Entra - SAP Scenarios L300 Training](SAPScenarios/Migrate SAP IDM to Microsoft Entra.PPTX)
+PPT Deck: [Microsoft Entra - SAP Scenarios L300 Training](SAPScenarios/MicrosoftEntra_SAP_ScenariosL300.pptx)
 
 ### Connect to SAP HR Source
 
