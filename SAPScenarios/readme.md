@@ -68,6 +68,15 @@ Demo Video: TBC
 
 Demo Video: [Use Microsoft Entra Group and Access Packages to manage SAP Roles and application access](https://youtu.be/3KWkuGslYOU?si=DFVIUHUZMBX05QD-)
 
+### Use Microsoft Entra Private Access (ZTNA) to protect your on-premises SAP Apps
+
+[What is Global Secure Access?](https://learn.microsoft.com/en-us/entra/global-secure-access/overview-what-is-global-secure-access)
+
+[Tutorial: Configure Per-App Access for Private Access](https://learn.microsoft.com/en-us/entra/global-secure-access/quickstart-per-app-access))
+
+Demo Video: [User Experience - Accessing SAP Logon protected by Global Secure Access (GSA)]([https://youtu.be/3KWkuGslYOU?si=DFVIUHUZMBX05QD-](https://youtu.be/KLQu__1m7Oc?si=WyQVRW5SOD6YmyzB))
+
+
 ## 🪙 Licensing
 
 ### Microsoft Entra ID Governance
