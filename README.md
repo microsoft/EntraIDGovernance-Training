@@ -57,6 +57,10 @@ Explore a diverse array of scenarios featuring comprehensive documentation, step
 - [Govern Guest and Partner Access](./IGAPOC/Govern%20Guest%20and%20Partner%20Access/GovernGuestsPartnerAccess.md)
 - [Govern privileged identities and their access](./IGAPOC/Govern%20Privileged%20Identities/GovernprivilegedIdentities.md)
 
+### Microsoft Entra ID Governance SAP Scenarios Hub
+
+- [Identity Governance with SAP Applications](./SAPScenarios/readme.md)
+
 ### Microsoft Entra Permissions Management
 
 - [Overview of Microsoft Entra Permisions Management](./EPMPOC/00-MEPM_PoC_Overview/Overview.md)
