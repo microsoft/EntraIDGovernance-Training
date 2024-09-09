@@ -89,4 +89,3 @@ Demo Video: [User Experience - Accessing SAP Logon protected by Global Secure Ac
 ## 📦 POC in a Box
 
 To be Defined...
-
