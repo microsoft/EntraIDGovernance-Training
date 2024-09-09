@@ -18,7 +18,7 @@ Welcome to our GitHub repository dedicated to SAP Integration scenarios with Mic
 
  **Explore Documentation**: Dive into our extensive documentation to understand the core concepts and best practices in SAP IDM Migration
 
-### SAP IDM Migration Guide
+### SAP IDM Migration Guide - Starts Here!
 
 Public Doc: [SAP IDM Migration Guide](https://learn.microsoft.com/en-us/entra/id-governance/scenarios/migrate-from-sap-idm)
 
@@ -26,9 +26,9 @@ Public Doc: [Scenario - Using Microsoft Entra ID to secure access to SAP platfor
 
 Public Doc: [Manage Access to your SAP Application](https://learn.microsoft.com/en-us/entra/id-governance/sap)
 
-PPT Deck: [Migrate from SAP IDM to Microsoft Entra](SAPScenarios/MicrosoftEntra_SAP_ScenariosL300.pptx)
+PPT Deck: [Migrate from SAP IDM to Microsoft Entra](SAPScenarios/MigrateSAPIDMtoMicrosoftEntra.PPTX)
 
-PPT Deck: [Microsoft Entra - SAP Scenarios L300 Training](SAPScenarios/MicrosoftEntra_SAP_ScenariosL300.pptx)
+PPT Deck: [Microsoft Entra - SAP Scenarios L300 Training](SAPScenarios/MicrosoftEntra_SAP_ScenariosL300_noRoadmap.pptx)
 
 ### Connect to SAP HR Source
 
