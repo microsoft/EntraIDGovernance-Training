@@ -1,5 +1,6 @@
 ---
 sidebar_position: 1
+slug: /
 title: Introduction
 ---
 # Welcome to the Microsoft Entra ID Governance training Hub
