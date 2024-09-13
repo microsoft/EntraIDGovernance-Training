@@ -52,10 +52,10 @@ Explore a diverse array of scenarios featuring comprehensive documentation, step
 
 ### Microsoft Entra ID Governance Scenarios
 
-- [Employee Lifecycle Automation](./IGAPOC/Employee%20Lifecycle%20Automation/EmployeeLifecycle.md)
-- [Assign employee access to resources](./IGAPOC/Assign%20employee%20access%20to%20resources/AssignEmployeeAccess.md)
-- [Govern Guest and Partner Access](./IGAPOC/Govern%20Guest%20and%20Partner%20Access/GovernGuestsPartnerAccess.md)
-- [Govern privileged identities and their access](./IGAPOC/Govern%20Privileged%20Identities/GovernprivilegedIdentities.md)
+- [Employee Lifecycle Automation](./IGAPOC/01-Employee_Lifecycle_Automation/EmployeeLifecycle.md)
+- [Assign employee access to resources](./IGAPOC/02-Assign_employee_access_to_resources/AssignEmployeeAccess.md)
+- [Govern Guest and Partner Access](./IGAPOC/03-Govern_Guest_and_Partner_Access/GovernGuestsPartnerAccess.md)
+- [Govern privileged identities and their access](./IGAPOC/04-Govern_Privileged_Identities/GovernprivilegedIdentities.md)
 
 ### Microsoft Entra ID Governance SAP Scenarios Hub
 
@@ -87,22 +87,22 @@ Explore our recorded training sessions and materials presented by our Microsoft 
 ### Microsoft Entra ID Governance
 
 - PoC Feedback form [POC Feedback Link](https://aka.ms/IGAPOCSurvey)
-- Deck (PDF Format)  [Microsoft Entra ID governance Partner technical Training](./Partners/MEIG%20Technical%20Training%20for%20Partners%20Deck%20-%20June%202024.pdf)
+- Deck (PDF Format)  [Microsoft Entra ID governance Partner technical Training](./Partners/MEIG_Technical_Training_for_Partners_Deck_June_2024.pdf)
 - Partner training recording [Recording: Microsoft Entra ID Governance technical training for services partners](https://youtu.be/Oab6Bcl7hKo?si=mnDBgVLCPblnoHTo)
 - Partner Lab setup (TBD)
-- Customer Flyer [Microsoft Entra ID governance customer flyer](./Partners/00-MEIG_Customer%20Email%20template%20_Flyer.pptx)
+- Customer Flyer [Microsoft Entra ID governance customer flyer](./Partners/00-MEIG_Customer_Email_template_Flyer.pptx)
 - Infographic (Requires MPN Access) [Microsoft Entra ID Governance Infographic](https://microsoft.seismic.com/Link/Content/DCRMc68PfX4MdGfGgF8m8qFJd7pj)
-- Pre-Engagement Deck [Microsoft Entra ID Governance - Pre-engagement Deck](./Partners/EIGA%20-%20POC%20Pre-engagement.pptx)
+- Pre-Engagement Deck [Microsoft Entra ID Governance - Pre-engagement Deck](./Partners/MEIG_POC_Pre-engagement.pptx)
 - Lifecycle Workflows (Requires MPN Access) [Microsoft Entra ID Governance - Lifecycle Workflows](https://microsoft.seismic.com/Link/Content/DCDJ9qhjHRBJj8mFbFbV77qC4WT3)
 - L100 Deck (Requires MPN Access) [Microsoft Entra ID Governance - L100 Deck](https://microsoft.seismic.com/Link/Content/DChcDCTCVb9hHGQCPcqT8XHGfQDB)
 - L200 Deck (Requires MPN Access) [Microsoft Entra ID Governance - L200 Deck](https://microsoft.seismic.com/Link/Content/DCfV7RDJDgbWG8hQPqqcCD9DqFMd)
 
 ### Scenarios
 
-- [Employee Lifecycle Automation](./IGAPOC/Employee%20Lifecycle%20Automation/EmployeeLifecycle.md)
-- [Assign employee access to resources](./IGAPOC/Assign%20employee%20access%20to%20resources/AssignEmployeeAccess.md)
-- [Govern Guest and Partner Access](./IGAPOC/Govern%20Guest%20and%20Partner%20Access/GovernGuestsPartnerAccess.md)
-- [Govern privileged identities and their access](./IGAPOC/Govern%20Privileged%20Identities/GovernprivilegedIdentities.md)
+- [Employee Lifecycle Automation](./IGAPOC/01-Employee_Lifecycle_Automation/EmployeeLifecycle.md)
+- [Assign employee access to resources](./IGAPOC/02-Assign_employee_access_to_resources/AssignEmployeeAccess.md)
+- [Govern Guest and Partner Access](./IGAPOC/03-Govern_Guest_and_Partner_Access/GovernGuestsPartnerAccess.md)
+- [Govern privileged identities and their access](./IGAPOC/04-Govern_Privileged_Identities/GovernprivilegedIdentities.md)
 
 ### Microsoft Entra Permissions Management
 
