@@ -8,8 +8,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'Microsoft Entra ID Governance Training',
+  tagline: 'Microsoft Entra training for Entra ID Governance',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -60,12 +60,12 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/eiga.png',
       navbar: {
         title: 'Entra ID Governance - Training',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'Entra ID Governance logo',
+          src: 'img/logo.png',
         },
         items: [
           {
@@ -92,16 +92,16 @@ const config = {
             title: 'Quick Links',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'What is Microsoft Entra ID Governance',
+                href: 'https://learn.microsoft.com/en-us/entra/id-governance/identity-governance-overviews',
               },
               {
-                label: 'Discord',
+                label: 'What is Microsoft Entra Permissions Mamagement',
                 href: 'https://discordapp.com/invite/docusaurus',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'SAP IDM Migration Guide',
+                href: 'https://learn.microsoft.com/en-us/entra/id-governance/scenarios/migrate-from-sap-idm',
               },
             ],
           },
@@ -110,7 +110,7 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://aka.ms/EntraIDGovernancetraining',
               },
             ],
           },

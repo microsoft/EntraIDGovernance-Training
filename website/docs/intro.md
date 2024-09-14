@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 slug: /
-title: Introduction
+title: Overview
 ---
 # Welcome to the Microsoft Entra ID Governance training Hub
 
@@ -55,32 +55,16 @@ Welcome to our GitHub repository dedicated to Entra Identity Governance – a co
 
 Explore a diverse array of scenarios featuring comprehensive documentation, step-by-step walkthroughs, and recorded demos that illuminate the intricate lifecycle of identities. Whether you're delving into the basics or seeking advanced insights, our repository is your go-to source for mastering identity governance
 
-### Microsoft Entra ID Governance Scenarios
+[Microsoft Entra Identity Governance](./IGAPOC/Readme.md)
 
-## 🤖 Custom Extension Samples (Logic Apps)
-
-Coming Soon!
-
-## ⏩ Useful Microsoft Quickstart Guides
-
-Check out these valuable links from Microsoft for step-by-step instructions on setting up Microsoft Entra ID Governance
-
+[Microsoft Entra Permissions Msnagement](./EPMPOC/Readme.md)
 
 
 ## 🤝 Service Partners training
 
-Explore our recorded training sessions and materials presented by our Microsoft Product group exclusively for our Service Partners. To consume some of this materials, you must have a Microsoft Partner One ID and Microsoft Partner Network (MPN) access
+Explore our recorded training sessions and materials presented by our Microsoft Product group exclusively for our Service Partners.
 
-### Microsoft Entra ID Governance
-
-- PoC Feedback form [POC Feedback Link](https://aka.ms/IGAPOCSurvey)
-
-
-### Scenarios
-
-
-### Microsoft Entra Permissions Management
-
+[Service Partners training](./Partners/Readme.md)
 
 ## 🛠️ Contribute and Collaborate
 
