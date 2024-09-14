@@ -60,7 +60,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/eiga.png',
+      image: 'img/social-card.png',
       navbar: {
         title: 'Entra ID Governance - Training',
         logo: {
