@@ -1,11 +1,11 @@
 ---
 sidebar_position: 4
-title: Assign Employee Access to Resources
+title: Assign employee access to resources
 ---
 
 # Assign employee access to resources
 
-## Deck: [Assign Employee access to resources](./IGA_POC_Assets/MEIG_POC_Scenario2_Assign_Employee_access_to_resources.pptx)
+## Download Deck: [Assign Employee access to resources](./IGA_POC_Assets/MEIG_POC_Scenario2_Assign_Employee_access_to_resources.pptx)
 
 - Intro - Benefits of Access requests and highlights (slides 13-17)
 - Auto-assignment Access Packages (Birthright assignments) (slides 18-22)

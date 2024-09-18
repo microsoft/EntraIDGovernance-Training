@@ -1,10 +1,10 @@
 ---
 sidebar_position: 3
-title: Employee Lifecycle Automation
+title: Employee lifecycle automation
 ---
-# Employee Lifecycle Automation
+# Employee lifecycle automation
 
-## Deck: [Employee Lifecycle Automation](./IGA_POC_Assets/MEIG_POC_Scenario1_Employee_Lifecycle_Automation.pptx)
+## Download Deck: [Employee Lifecycle Automation](./IGA_POC_Assets/MEIG_POC_Scenario1_Employee_Lifecycle_Automation.pptx)
 
 - Intro - Key benefits from Entra ID governance ( slides 15, 16 and 17)
 - HR provisioning (slides 19 - 35)

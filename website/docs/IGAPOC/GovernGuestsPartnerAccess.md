@@ -1,10 +1,10 @@
 ---
 sidebar_position: 5
-title: Govern Guest and Partner Access
+title: Govern guest and partner access
 ---
-# Govern Guest and Partner Access
+# Govern guest and partner access
 
-## Deck: [Govern guest and partner Access to resources](./IGA_POC_Assets/MEIG_POC_Scenario3_Govern_guest_and_%20partner_access_to_resources.pptx)
+## Download Deck: [Govern guest and partner Access to resources](./IGA_POC_Assets/MEIG_POC_Scenario3_Govern_guest_and_%20partner_access_to_resources.pptx)
 
 - Intro - Manage Guest lifecycle (slides 14-18)  
 - Onboarding guests (slide 19-28)

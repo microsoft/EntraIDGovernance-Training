@@ -5,7 +5,7 @@ title: Onboarding Clouds
 
 # Onboarding Clouds For Microsoft Entra Permissions Management PoC
 
-## Deck: [Onboarding Clouds](./EPM_POC_Assets/02-MEPM_PoC_Onboarding_Clouds.pptx)
+## Download Deck: [Onboarding clouds](./EPM_POC_Assets/02-MEPM_PoC_Onboarding_Clouds.pptx)
 
 - MEPM Roles- Setting up the correct roles for managing MEPM (slides 4)
 - Azure - Onboarding Azure subscriptions (slide 6-10)
