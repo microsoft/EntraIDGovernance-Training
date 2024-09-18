@@ -1,6 +1,6 @@
 ---
 sidebar_position: 12
-title: PCI and Remediation
+title: PCI and remediation
 ---
 
 # Permissions Creep Index and Remediation For Microsoft Entra Permissions Management PoC

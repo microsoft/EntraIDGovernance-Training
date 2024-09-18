@@ -1,6 +1,6 @@
 ---
 sidebar_position: 11
-title: Brilliant at the Basics
+title: Brilliant at the basics
 ---
 
 # Brilliant at the Basics For Microsoft Entra Permissions Management PoC

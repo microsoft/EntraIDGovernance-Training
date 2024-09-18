@@ -1,6 +1,6 @@
 ---
 sidebar_position: 9
-title: Getting Started
+title: Getting started
 ---
 
 # Getting Started With Microsoft Entra Permissions Management PoC

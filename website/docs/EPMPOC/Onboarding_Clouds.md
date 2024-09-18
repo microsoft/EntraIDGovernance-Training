@@ -1,6 +1,6 @@
 ---
 sidebar_position: 10
-title: Onboarding Clouds
+title: Onboarding clouds
 ---
 
 # Onboarding Clouds For Microsoft Entra Permissions Management PoC
