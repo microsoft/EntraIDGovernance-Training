@@ -5,7 +5,7 @@ title: PCI and remediation
 
 # Permissions Creep Index and Remediation For Microsoft Entra Permissions Management PoC
 
-## Download Deck: [PCI and remediation](./EPM_POC_Assets/04-MEPM_PCI_and_Remediation.pptx)
+## Download deck: [PCI and remediation](./EPM_POC_Assets/04-MEPM_PCI_and_Remediation.pptx)
 
 - Planning phase - High level plan (Slides 4-5)
 - Remediation phase - Stey by step (Slides 6-40)

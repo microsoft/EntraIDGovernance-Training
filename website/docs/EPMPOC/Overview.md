@@ -5,7 +5,7 @@ title: Overview
 
 # Overview of Microsoft Entra Permissions Management PoC
 
-## Download Deck: [PoC kick off](./EPM_POC_Assets/00-MEPM_PoC_Overview.pptx)
+## Download deck: [PoC kick off](./EPM_POC_Assets/00-MEPM_PoC_Overview.pptx)
 
 - Stakeholders - Recommend role particpation (slide 2)
 - Goals - Outcomes to achieve from the PoC (slide 3)

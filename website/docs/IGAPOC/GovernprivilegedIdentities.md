@@ -4,7 +4,7 @@ title: Govern privileged identities and their access
 ---
 # Govern privileged identities and their access  
 
-## Download Deck: [Govern privileged identities and their access](./IGA_POC_Assets/MEIG_POC_Scenario4_Govern_privileged_identities_and_their_access.pptx)
+## Download deck: [Govern privileged identities and their access](./IGA_POC_Assets/MEIG_POC_Scenario4_Govern_privileged_identities_and_their_access.pptx)
 
 - Intro - What is Privilege Identity Management? (slides 17-25)  
 - Discovery and Insights (slides 26-28)

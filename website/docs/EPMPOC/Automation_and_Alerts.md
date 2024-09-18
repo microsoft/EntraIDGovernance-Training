@@ -5,7 +5,7 @@ title: Automation and alerts
 
 # Automation and Alerts For Microsoft Entra Permissions Management PoC
 
-## Download Deck: [Automation and alerts](./EPM_POC_Assets/05-MEPM_Automation_and_Alerts.pptx)
+## Download deck: [Automation and alerts](./EPM_POC_Assets/05-MEPM_Automation_and_Alerts.pptx)
 
 - Remediation Phase - Continue from the pervious slide deck
 - Day 60
