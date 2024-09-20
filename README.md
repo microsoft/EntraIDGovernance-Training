@@ -74,7 +74,7 @@ Explore our recorded training sessions and materials presented by our Microsoft 
 
 Dive into our extensive documentation to understand the core concepts and best practices in identity governance as well as licensing information.
 
-[Licensing and Documentation](./Docs/docs.md)
+[Licensing and Documentation](./DOCS/docs.md)
 
 ## 🛠️ Contribute and Collaborate
 
