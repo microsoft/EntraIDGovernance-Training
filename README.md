@@ -8,44 +8,6 @@
 
 Welcome to our GitHub repository dedicated to Entra Identity Governance – a comprehensive resource hub designed to guide you through the intricacies of managing identities effectively. Whether you're a seasoned professional or just starting, here you'll find the tools, documentation, and training materials to master the art of identity governance.
 
-## 🚀 Getting Started
-
- **Explore Documentation**: Dive into our extensive documentation to understand the core concepts and best practices in identity governance.
-
-### Microsoft Entra ID Governance
-
-[What is Microsoft Entra ID Governance?](https://learn.microsoft.com/en-us/entra/id-governance/identity-governance-overview)
-
-[Identity lifecycle](https://learn.microsoft.com/en-us/entra/id-governance/identity-governance-overview#identity-lifecycle)
-
-[Access Lifecycle](https://learn.microsoft.com/en-us/entra/id-governance/identity-governance-overview#access-lifecycle)
-
-[Privileged Access Lifecycle](https://learn.microsoft.com/en-us/entra/id-governance/identity-governance-overview#privileged-access-lifecycle)
-
-[Governance Capabilities](https://learn.microsoft.com/en-us/entra/id-governance/identity-governance-overview#governance-capabilities-in-other-microsoft-entra-features)
-
-### Microsoft Entra Permissions Management
-
-[What is Microsoft Entra Permissions Management?](https://learn.microsoft.com/en-us/entra/permissions-management/overview)
-
-[How to enable Microsoft Entra Permissions Management](https://learn.microsoft.com/en-us/entra/permissions-management/onboard-enable-tenant)
-
-[Microsoft Entra Permissions Management Quickstart Guide](https://learn.microsoft.com/en-us/entra/permissions-management/permissions-management-quickstart-guide)
-
-[Microsoft Entra Permissions Management Operations Guide](https://learn.microsoft.com/en-us/entra/architecture/permissions-manage-ops-guide-intro)
-
-[2003 State of Cloud Permissions Risks Report](https://go.microsoft.com/fwlink/?linkid=2228627&clcid=0x409&culture=en-us&country=us)
-
-## 🪙 Licensing
-
-### Microsoft Entra ID Governance 
-
-[Visit the Entra ID Governance Licensing documentation](https://learn.microsoft.com/en-us/entra/id-governance/licensing-fundamentals )
-
-### Microsoft Entra Permissions Management
-
-[Visit the Entra Permissions Management Licensing documentation](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-permissions-management#pricing)
-
 ## 📦 POC in a Box
 
 Explore a diverse array of scenarios featuring comprehensive documentation, step-by-step walkthroughs, and recorded demos that illuminate the intricate lifecycle of identities. Whether you're delving into the basics or seeking advanced insights, our repository is your go-to source for mastering identity governance
@@ -107,6 +69,12 @@ Explore our recorded training sessions and materials presented by our Microsoft 
 ### Microsoft Entra Permissions Management
 
 - Deck [Microsoft Entra Permissions Mangement Overview](./EPMPOC/01-MEPM_PoC_Getting_Started/01-MEPM_PoC_Getting_Started.pptx)
+
+## 📄 Public Docs
+
+Dive into our extensive documentation to understand the core concepts and best practices in identity governance as well as licensing information.
+
+[Licensing and Documentation](./Docs/docs.md)
 
 ## 🛠️ Contribute and Collaborate
 

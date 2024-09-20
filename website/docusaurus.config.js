@@ -110,7 +110,7 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://aka.ms/EntraIDGovernancetraining',
+                href: 'https://github.com/microsoft/EntraIDGovernance-Training/',
               },
             ],
           },
