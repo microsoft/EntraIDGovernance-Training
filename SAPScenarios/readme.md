@@ -30,6 +30,10 @@ PPT Deck: [Migrate from SAP IDM to Microsoft Entra](./MigrateSAPIDMtoMicrosoftEn
 
 PPT Deck: [Microsoft Entra - SAP Scenarios L300 Training](./MicrosoftEntra_SAP_ScenariosL300_noRoadmap.pptx)
 
+### SAP IDM Migration Training Video
+
+Watch our SAP IDM migration to Microsoft Entra L300 Training [here](https://www.youtube.com/watch?v=3bh2qjR4Hkg)
+
 ### Connect to SAP HR Source
 
 [Tutorial: Configure SAP SuccessFactors to Active Directory user provisioning ](https://learn.microsoft.com/en-us/entra/identity/saas-apps/sap-successfactors-inbound-provisioning-tutorial)
