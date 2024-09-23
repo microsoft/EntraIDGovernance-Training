@@ -34,6 +34,13 @@ const config = {
     locales: ['en'],
   },
 
+  scripts: [
+    {
+      src: 'https://www.clarity.ms/tag/o2shzitbtm',
+      async: true,
+    },
+  ],
+
   
   presets: [
     [
