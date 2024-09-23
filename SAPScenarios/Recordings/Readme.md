@@ -1,1 +1,0 @@
-# SAP Scenarios Recording 🏢
