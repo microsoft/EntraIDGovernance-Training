@@ -32,16 +32,15 @@ const config = {
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
-  },
+  }, 
 
-  scripts: [
-    {
-      src: 'https://www.clarity.ms/tag/o2shzitbtm',
-      async: true,
-    },
+  plugins: [
+     [
+      "@gracefullight/docusaurus-plugin-microsoft-clarity",
+      { projectId: "o2shzitbtm" },
+    ],
   ],
 
-  
   presets: [
     [
       'classic',
