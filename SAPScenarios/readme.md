@@ -30,7 +30,7 @@ PPT Deck: [Migrate from SAP IDM to Microsoft Entra](./MigrateSAPIDMtoMicrosoftEn
 
 PPT Deck: [Microsoft Entra - SAP Scenarios L300 Training](./MicrosoftEntra_SAP_ScenariosL300_noRoadmap.pptx)
 
-Please check Martin Raepple's blog post series on SAP Community blog that [provide technical guidance on how to plan and implement IAM for SAP applications with Microsoft Entra](https://community.sap.com/t5/technology-blogs-by-members/identity-and-access-management-with-microsoft-entra-part-i-managing-access/ba-p/13873276)
+Please check Martin Raepple's blog post series on SAP Community blog that [Provide technical guidance on how to plan and implement IAM for SAP applications with Microsoft Entra](https://community.sap.com/t5/technology-blogs-by-members/identity-and-access-management-with-microsoft-entra-part-i-managing-access/ba-p/13873276)
 
 ### SAP IDM Migration Training Video
 
