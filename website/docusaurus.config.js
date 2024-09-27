@@ -8,8 +8,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Microsoft Entra ID Governance Training',
-  tagline: 'Microsoft Entra training for Entra ID Governance',
+  title: 'Microsoft Entra ID Governance',
+  tagline: 'Training hub for Microsoft Entra ID Governance',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -50,9 +50,7 @@ const config = {
           routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/microsoft/EntraIDGovernance-Training/blob/main/src/',
+          
         },
         blog: false,
         theme: {

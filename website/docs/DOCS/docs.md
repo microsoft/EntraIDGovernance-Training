@@ -3,7 +3,7 @@ sidebar_position: 16
 title: Licensing and Documentation 
 ---
 
-# Public Documentation 📄
+# 📄 Public Documentation 
 
 ## Microsoft Entra ID Governance
 

@@ -1,9 +1,9 @@
 ---
 sidebar_position: 15
-title: Service Partners training
+title: Service Partners
 ---
 
-## 🤝 Service Partners training
+## 🤝 Service Partners resources
 
 Explore our recorded training sessions and materials presented by our Microsoft Product group exclusively for our Service Partners. To consume some of this materials, you must have a Microsoft Partner One ID and Microsoft Partner Network (MPN) access
 

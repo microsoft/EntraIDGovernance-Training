@@ -3,7 +3,7 @@ sidebar_position: 2
 title: Microsoft Entra ID Governance
 ---
 
-## Microsoft Entra ID Governance POC in a Box 📦
+## 📦 POC in a Box
 
 Explore a diverse array of scenarios featuring comprehensive documentation, step-by-step walkthroughs, and recorded demos that illuminate the intricate lifecycle of identities. Whether you're delving into the basics or seeking advanced insights, our repository is your go-to source for mastering identity governance
 
