@@ -1,5 +1,5 @@
 ---
-sidebar_position: 5
+sidebar_position: 6
 title: Govern guest and partner access to resources
 ---
 # Govern guest and partner access

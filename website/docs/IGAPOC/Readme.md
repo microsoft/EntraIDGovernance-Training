@@ -7,6 +7,10 @@ title: Microsoft Entra ID Governance
 
 Explore a diverse array of scenarios featuring comprehensive documentation, step-by-step walkthroughs, and recorded demos that illuminate the intricate lifecycle of identities. Whether you're delving into the basics or seeking advanced insights, our repository is your go-to source for mastering identity governance
 
+### Success criteria
+
+[Microsoft Entra ID Governance POC Success Criteria](./POC-success-criteria.md)
+
 ### Scenarios
 
 1. [Employee Lifecycle Automation](./EmployeeLifecycle.md)
