@@ -9,6 +9,8 @@ title: Overview
 
 > Empower Your Identity Management Journey with Microsoft Entra ID
 
+Looking for the Global Secure Access version of this site? https://aka.ms/GlobalSecureAccessCommunity
+
 ## 🔐 Unlock the Power of Identity Governance
 
 Welcome to our GitHub repository dedicated to Entra Identity Governance – a comprehensive resource hub designed to guide you through the intricacies of managing identities effectively. Whether you're a seasoned professional or just starting, here you'll find the tools, documentation, and training materials to master the art of identity governance.
