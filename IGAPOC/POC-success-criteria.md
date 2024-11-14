@@ -3,36 +3,31 @@
 
 ## Established criteria for success to guide future deployment decisions based on the following scenarios:
 
-### Employee Lifecycle Management
+# Success Criteria for Entra Identity Governance POC
+> Checklist for evaluating POC success for Microsoft Entra ID Governance
 
-* Provision new employee accounts (Entra ID and Apps) from HR System 
-* Automate access for Joiner, Mover, Leaver scenarios
-* Deactivate accounts promptly upon offboarding
-* Maintain detailed logs for audits
+## Established criteria for success based on the following scenarios
 
-### Employee Access to Resources
 
-* Enable self-service access requests with automated approvals
-* Enable Birthright assignments
-* Create regular access reviews by resource owners
-* Maintain detailed logs for audits
-
-### Governance of Guest and Partner Access
-
-* Streamline guest/partner access provisioning and de-provisioning
-* Assign sponsors for oversight
-* Enable self-service access requests with automated approvals
-* Create regular access reviews by resource owners
-* Verify external identities securely through Entra verified ID
-
-### Govern privileged identities and their access
-
-* Discover Azure resources to manage
-* Bring groups into Privileged Identity Management
-* Set role settings for Microsoft Entra ID roles and Azure resource roles
-* Assign Microsoft Entra ID roles, Azure resources, and Groups
-* Activate Microsoft Entra ID roles, Azure resources, and Groups
-* Approve Microsoft Entra ID roles, Azure resources, and Groups
+| **Employee Lifecycle Automation**                 | HR Provisioning                     | Configure or Demo Workday or SuccessFactors or API Driven provisioning with Basic mapping  |
+|---------------------------------------------------|-------------------------------------|--------------------------------------------------------------------------------------------|
+|                                                   | SaaS Apps provisioning Sample       | Optional- Setup provisioning for 1 SaaS app with basic mapping                         |
+|                                                   | Lifecycle Workflows                 | At least one workflow per J/M/L scenario                                                   |
+| **Assign Employee Access to resources**           | Entitlement Management              | At least one basic Access Package                                                          |
+|                                                   | Entitlement Management              | Create one Auto-assignment Policy                                                          |
+|                                                   | EM + Custom Extensions              | Describe (or Demo)  the use case and create an empty logic app                             |
+|                                                   | Access Recertification              | Create at least one access review (Weekly , follow up after results)                       |
+| **Govern Guest and partner access to resources**  | Onboarding and Discovery            | Navigate the Guests report and IGA dashboard                                               |
+|                                                   | Auto-assignment                     | Create an Access Package for guests, add an aut-assignment policy                          |
+|                                                   | EM + Custom Extensions              | Describe (or Demo)  the use case and create an empty logic app                             |
+|                                                   | Convert existing guests to Governed | Take a guest user , and assign it to an Access Package                                     |
+|                                                   | Access Recertification              | Create at least one access review (Weekly , follow up after results)                       |
+| **Govern Privileged Identities and their access** | Discovery and insights              | Navigate through PIM portal Discovery                                                      |
+|                                                   | Microsoft Entra ID Roles            | Setup and test PIM for at least one Entra ID Roles                                         |
+|                                                   | Azure Roles                         | Setup and test PIM for at least one Azure role                                             |
+|                                                   | PIM for Groups                      | Discover Groups to be used with PIM , Configure and test at least one group                |
+|                                                   | Access Reviews + PIM                | Create at least one access review (Weekly , follow up after results)                       |
+|                                                   | PIM + CA                            | Setup and PIM authentication Context and add one CA policy for PIM , Test result           |
 
 ### Next Steps
 
