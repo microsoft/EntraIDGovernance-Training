@@ -3,7 +3,7 @@ sidebar_position: 8
 title: Microsoft Entra Permissions Management 
 ---
 
-# 📦 POC in a Box 📦
+## 📦 POC in a Box 
 
 Explore a diverse array of scenarios featuring comprehensive documentation, step-by-step walkthroughs, and recorded demos that illuminate Microsoft Entra Permissions Management. Whether you're delving into the basics or seeking advanced insights, our repository is your go-to source for mastering CIEM, driving to least privilege leveraging Microsoft Entra Permissions Management.
 
