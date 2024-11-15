@@ -66,7 +66,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/social-card.png',
       navbar: {
-        title: 'Entra ID Governance - Training',
+        title: 'Entra ID Governance - Training Hub',
         logo: {
           alt: 'Entra ID Governance logo',
           src: 'img/logo.png',

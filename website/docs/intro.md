@@ -3,7 +3,7 @@ sidebar_position: 1
 slug: /
 title: Overview
 ---
-# Welcome to the Microsoft Entra ID Governance training Hub
+# Welcome to the Microsoft Entra ID Governance training hub
 
 [Microsoft Entra ID Governance Training Hub](https://aka.ms/EntraIDGovernanceTraining)
 
