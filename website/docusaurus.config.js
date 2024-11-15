@@ -110,7 +110,7 @@ const config = {
             ],
           },
           {
-            title: 'More',
+            title: 'Have feedback? Open an issue in GitHub',
             items: [
               {
                 label: 'GitHub',
@@ -119,7 +119,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Built by the Microsoft Identity Customer Acceleration Team.`,
+        copyright: `The content on this repo is maintained by the Microsoft Entra Customer Experience Engineering team.`,
       },
       prism: {
         theme: prismThemes.github,
