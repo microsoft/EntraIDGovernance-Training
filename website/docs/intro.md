@@ -21,7 +21,7 @@ Explore a diverse array of scenarios featuring comprehensive documentation, step
 
 [Microsoft Entra Identity Governance](./IGAPOC/Readme.md)
 
-[Microsoft Entra Permissions Msnagement](./EPMPOC/Readme.md)
+[Microsoft Entra Permissions Management](./EPMPOC/Readme.md)
 
 ## 🤝 Service Partners training
 
