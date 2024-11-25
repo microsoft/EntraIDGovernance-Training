@@ -8,10 +8,10 @@ title: Success criteria
 
 ## Established criteria for success based on the following scenarios
 
-
-| **Employee Lifecycle Automation**                 | HR Provisioning                     | Configure or Demo Workday or SuccessFactors or API Driven provisioning with Basic mapping  |
+| Scenario / Phase                                  | Task / Features                     | Success Criteria                                                                           |
 |---------------------------------------------------|-------------------------------------|--------------------------------------------------------------------------------------------|
-|                                                   | SaaS Apps provisioning Sample       | Optional- Setup provisioning for 1 SaaS app with basic mapping                         |
+| **Employee Lifecycle Automation**                 | HR Provisioning                     | Configure or Demo Workday or SuccessFactors or API Driven provisioning with Basic mapping  |
+|                                                   | SaaS Apps provisioning Sample       | Optional- Setup provisioning for 1 SaaS app with basic mapping                             |
 |                                                   | Lifecycle Workflows                 | At least one workflow per J/M/L scenario                                                   |
 | **Assign Employee Access to resources**           | Entitlement Management              | At least one basic Access Package                                                          |
 |                                                   | Entitlement Management              | Create one Auto-assignment Policy                                                          |
