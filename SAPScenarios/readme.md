@@ -32,6 +32,8 @@ PPT Deck: [Microsoft Entra - SAP Scenarios L300 Training](./MicrosoftEntra_SAP_S
 
 Please check Martin Raepple's blog post series on SAP Community blog that [Provide technical guidance on how to plan and implement IAM for SAP applications with Microsoft Entra](https://community.sap.com/t5/technology-blogs-by-members/identity-and-access-management-with-microsoft-entra-part-i-managing-access/ba-p/13873276)
 
+Video: [Migrate SAP IDM to Microsoft Entra Podcast](https://www.youtube.com/watch?v=XW4-4X_F3tI)
+
 ### SAP IDM Migration Training Video
 
 Watch our SAP IDM migration to Microsoft Entra L300 Training [here](https://www.youtube.com/watch?v=3bh2qjR4Hkg)
@@ -54,7 +56,8 @@ Demo Video: [Configuring Single sign-on (SSO) for SAP Cloud Identity Services an
 
 [Tutorial: Microsoft Entra single sign-on (SSO) integration with SAP NetWeaver](https://learn.microsoft.com/en-us/entra/identity/saas-apps/sap-netweaver-tutorial)
 
-Demo Video: TBC
+Demo Video: [Protect SAP GUI with MFA and Microsoft Entra SSO](https://youtu.be/RHuEUUmLPtM?si=KR3we8rQJdqnjv-9)
+Tutorial: [Protect SAP GUI with MFA and Microsoft Entra SSO](https://community.sap.com/t5/technology-blogs-by-members/sap-gui-mfa-with-microsoft-entra-part-i-integration-with-sap-secure-login/ba-p/13605383)
 
 OBS: More SAP SSO scenarios and other SaaS applications are available [here](https://learn.microsoft.com/en-us/entra/identity/saas-apps/tutorial-list)
 
@@ -66,7 +69,8 @@ Demo Video: [Configuring User Provisioning for SAP Cloud Identity Service](https
 
 [Tutorial: Configuring Microsoft Entra ID to provision users into SAP ECC with NetWeaver AS ABAP 7.0 or later](https://learn.microsoft.com/en-us/entra/identity/app-provisioning/on-premises-sap-connector-configure?toc=%2Fentra%2Fidentity%2Fsaas-apps%2Ftoc.json%3Fbc%3D%2Fentra%2Fidentity%2Fsaas-apps%2Fbreadcrumb%2Ftoc.json)
 
-Demo Video: TBC
+Tutorial: [User Provisioning in a SAP hybrid environment using SAP Cloud Connector](https://community.sap.com/t5/technology-blogs-by-members/identity-and-access-management-with-microsoft-entra-part-ii-provisioning-to/ba-p/13990927)
+Video: [User Provisioning in a SAP hybrid environment using SAP Cloud Connector](https://www.youtube.com/watch?v=CJWvHWR1G5g)
 
 ### Manage Access to SAP Applications
 
@@ -81,6 +85,9 @@ Demo Video: [Use Microsoft Entra Group and Access Packages to manage SAP Roles a
 [Tutorial: Configure Per-App Access for Private Access](https://learn.microsoft.com/en-us/entra/global-secure-access/quickstart-per-app-access)
 
 Demo Video: [User Experience - Accessing SAP Logon protected by Global Secure Access (GSA)](https://youtu.be/KLQu__1m7Oc?si=ukDgvFazBZEkMTLP)
+
+Tutorial: [Protect SAP GUI with Microsoft Entra Private Access](https://community.sap.com/t5/technology-blogs-by-members/sap-gui-mfa-with-microsoft-entra-part-ii-integration-with-microsoft-entra/ba-p/13691141)
+Video: [Protect SAP GUI with MFA and Microsoft Entra Private Access](https://youtu.be/42dj-lV-MDQ?si=udWzsfetGQdLwOQn)
 
 
 ## 🪙 Licensing
