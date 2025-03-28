@@ -51,7 +51,7 @@ Watch our SAP IDM migration to Microsoft Entra L300 Training [here](https://www.
 
 [Tutorial: Configure attribute write-back from Microsoft Entra ID to SAP SuccessFactors](https://learn.microsoft.com/en-us/entra/identity/saas-apps/sap-successfactors-writeback-tutorial)
 
-Demo Video: TBC 
+Demo Video: [Connect SAP SuccessFactor to Entra ID for user provisioning](https://youtu.be/eJOVuewGOTI?si=oO2HoxqnAe0qB1OL)
 
 ### Enable SSO for SAP Applications
 
