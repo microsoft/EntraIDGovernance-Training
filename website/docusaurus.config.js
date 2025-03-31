@@ -100,10 +100,6 @@ const config = {
                 href: 'https://learn.microsoft.com/en-us/entra/id-governance/identity-governance-overviews',
               },
               {
-                label: 'What is Microsoft Entra Permissions Mamagement',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
                 label: 'SAP IDM Migration Guide',
                 href: 'https://learn.microsoft.com/en-us/entra/id-governance/scenarios/migrate-from-sap-idm',
               },

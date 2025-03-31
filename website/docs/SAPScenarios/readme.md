@@ -1,5 +1,5 @@
 ---
-sidebar_position: 14
+sidebar_position: 8
 title: Microsoft Entra ID Governance for SAP
 ---
 
