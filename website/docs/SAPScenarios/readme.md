@@ -18,6 +18,7 @@ Welcome to our GitHub repository dedicated to SAP Integration scenarios with Mic
 3. Enable SSO for SAP Applications (Both Cloud and On-Premises)
 4. Enable Provisioning for SAP Applications (Both Cloud and On-Premises)
 5. Manage Access to SAP Applications
+6. Connect to SAP IAG for Entitlement Management
 
 ## 🚀 SAP IDM Migration
 
@@ -85,6 +86,24 @@ Video: [User Provisioning in a SAP hybrid environment using SAP Cloud Connector]
 
 Demo Video: [Use Microsoft Entra Group and Access Packages to manage SAP Roles and application access](https://youtu.be/3KWkuGslYOU?si=DFVIUHUZMBX05QD-)
 
+### Connect Microsoft Entra to SAP IAG for Entitlement Management
+
+Microsoft Entra ID Governance integrates with SAP Identity Access Governance (IAG) to help you manage user access across both platforms. With this integration, you can include SAP business roles in Microsoft Entra access packages, streamlining the provisioning process and providing a unified access management experience.
+
+This integration enables you to:
+
+- Add SAP IAG business roles as resources in entitlement management catalogs
+- Grant users access to SAP applications through Microsoft Entra access packages
+- Automate role assignments in SAP IAG based on approvals in Microsoft Entra
+- Maintain consistent access governance policies across both Microsoft and SAP environments
+
+[Tutorial: Microsoft Entra SAP IAG integration](https://learn.microsoft.com/en-us/entra/id-governance/entitlement-management-sap-integration)
+
+Demo Video: [Microsoft Entra SAP IAG integration (Admin Experience)](https://youtu.be/SFGC5dqp6Nk)
+Demo Video: [Microsoft Entra SAP IAG integration (End-User Experience)](https://youtu.be/2u0gKsoWOXg))
+
+Click-Thru Demo: [Microsoft Entra ID Governance + SAP IAG](https://app.highlights.guide/start/15f258ab-67ab-401c-be3f-3666d6202be4?guide=true&autoHide=true)
+
 ### Use Microsoft Entra Private Access (ZTNA) to protect your on-premises SAP Apps
 
 [What is Global Secure Access?](https://learn.microsoft.com/en-us/entra/global-secure-access/overview-what-is-global-secure-access)
@@ -97,6 +116,16 @@ Tutorial: [Protect SAP GUI with Microsoft Entra Private Access](https://communit
 
 Video: [Protect SAP GUI with MFA and Microsoft Entra Private Access](https://youtu.be/42dj-lV-MDQ?si=udWzsfetGQdLwOQn)
 
+### Secure Your SAP Core: End-to-End Protection with Microsoft's Unified Security Platform and Security Copilot
+
+This demo traces a realistic security incident across the entire security lifecycle, showcasing how Microsoft's integrated solutions safeguard SAP environments from threats while upholding proper governance and access controls at the fictional company, Woodgrove.
+It covers 4 mains scenarios:
+1. User Onboarding and Access Management with Entra Suite
+2. Threat Detection with Microsoft Unified SecOps and Security Copilot in Defender Portal
+3. SAP Data Governance with Microsoft Purview
+4. Remediation and Future Prevention
+
+Click-Thru Demo: [Secure Your SAP Core with Microsoft Security Solutions](https://regale.cloud/Microsoft/play/4930/secure-your-sap-core-end-to-end-protection-with-microsoft-security#/0/0))
 
 ## 🪙 Licensing
 
